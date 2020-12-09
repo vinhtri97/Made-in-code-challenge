@@ -1,0 +1,3 @@
+The function is going to accept an input from file.txt
+Put array numbers that you want to test in file.txt
+Run 'npm run start' to start execute the code
